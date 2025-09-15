@@ -1,4 +1,9 @@
 {
   "release-type": "node",
-  "prerelease-type": "beta"
+  "prerelease": true,
+  "prerelease-type": "beta",
+  "bump-patch-for-minor-pre-major": true,
+  "packages": {
+    ".": {}
+  }
 }
