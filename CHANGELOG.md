@@ -1,5 +1,51 @@
 # Changelog
 
+## [0.1.8](https://github.com/LancelotLewis/release-please-demo/compare/v0.1.8...v0.1.8) (2025-09-15)
+
+
+### Features
+
+* add b ([#19](https://github.com/LancelotLewis/release-please-demo/issues/19)) ([ae8d843](https://github.com/LancelotLewis/release-please-demo/commit/ae8d8431b078ba4b420a6bca5aae53da6b2fa0be))
+* update a & b ([#29](https://github.com/LancelotLewis/release-please-demo/issues/29)) ([28ada6f](https://github.com/LancelotLewis/release-please-demo/commit/28ada6f6bb9ff83127ed8573deb9ecafbfbf08b6))
+* update b ([#28](https://github.com/LancelotLewis/release-please-demo/issues/28)) ([810e0d8](https://github.com/LancelotLewis/release-please-demo/commit/810e0d896dad8f36e02c1b35b8f552d2b2eaf59e))
+
+
+### Bug Fixes
+
+* update a ([#38](https://github.com/LancelotLewis/release-please-demo/issues/38)) ([1e79e07](https://github.com/LancelotLewis/release-please-demo/commit/1e79e0742d0027961aa7b6ddb2fd6a99799ef05c))
+* update b ([#26](https://github.com/LancelotLewis/release-please-demo/issues/26)) ([0b184dc](https://github.com/LancelotLewis/release-please-demo/commit/0b184dc438b42f5d0dc694ad8c68554dcf8ae0a8))
+* update config ([#11](https://github.com/LancelotLewis/release-please-demo/issues/11)) ([a769526](https://github.com/LancelotLewis/release-please-demo/commit/a7695265e2975a8f9697e8a0acfc2b2310714386))
+* update config ([#12](https://github.com/LancelotLewis/release-please-demo/issues/12)) ([6004989](https://github.com/LancelotLewis/release-please-demo/commit/6004989b99a503422e7cef851c600d0b07f88318))
+* update config ([#13](https://github.com/LancelotLewis/release-please-demo/issues/13)) ([f028908](https://github.com/LancelotLewis/release-please-demo/commit/f028908718c40914f9f60e32e7a887a9055ac0aa))
+* update config ([#14](https://github.com/LancelotLewis/release-please-demo/issues/14)) ([cd4bf44](https://github.com/LancelotLewis/release-please-demo/commit/cd4bf44611a0a0584918ce47b96c74b63e7ea213))
+* update config ([#15](https://github.com/LancelotLewis/release-please-demo/issues/15)) ([1007ddb](https://github.com/LancelotLewis/release-please-demo/commit/1007ddb62475300431e417862c1344f4f0299878))
+* update config ([#16](https://github.com/LancelotLewis/release-please-demo/issues/16)) ([39faa42](https://github.com/LancelotLewis/release-please-demo/commit/39faa42b20c0584bfef22dbb1a2b96613f086ccc))
+* update config ([#17](https://github.com/LancelotLewis/release-please-demo/issues/17)) ([7c5899a](https://github.com/LancelotLewis/release-please-demo/commit/7c5899a53a1cef0e20d839e2b417c6c1536c8d95))
+* update config ([#18](https://github.com/LancelotLewis/release-please-demo/issues/18)) ([c6a89d9](https://github.com/LancelotLewis/release-please-demo/commit/c6a89d9c75c58c844c012a2c37c2c00f2a9b46ca))
+* update config ([#20](https://github.com/LancelotLewis/release-please-demo/issues/20)) ([d2e201e](https://github.com/LancelotLewis/release-please-demo/commit/d2e201e39e0dbc20a5ca0a4542d968a21a50dd23))
+* update config ([#21](https://github.com/LancelotLewis/release-please-demo/issues/21)) ([440b1ee](https://github.com/LancelotLewis/release-please-demo/commit/440b1eecb31487023b042954308cae4f87a0e642))
+* update config ([#22](https://github.com/LancelotLewis/release-please-demo/issues/22)) ([4089259](https://github.com/LancelotLewis/release-please-demo/commit/40892595e52d4d601f24c7f6dae2b1fffdee4fd3))
+* update config ([#24](https://github.com/LancelotLewis/release-please-demo/issues/24)) ([5420bcf](https://github.com/LancelotLewis/release-please-demo/commit/5420bcf3caf99b0fd428c67f76e1a2799f7275b9))
+* update config ([#25](https://github.com/LancelotLewis/release-please-demo/issues/25)) ([b9dba53](https://github.com/LancelotLewis/release-please-demo/commit/b9dba5387ccaf8288a118d2d362b035141807a3f))
+* update config ([#31](https://github.com/LancelotLewis/release-please-demo/issues/31)) ([f671b81](https://github.com/LancelotLewis/release-please-demo/commit/f671b817eff4d1c95e50e3155096bab90671c0f2))
+* update config ([#33](https://github.com/LancelotLewis/release-please-demo/issues/33)) ([137adb2](https://github.com/LancelotLewis/release-please-demo/commit/137adb2f4972a27e7e4440b730266b35da95472a))
+* update config ([#34](https://github.com/LancelotLewis/release-please-demo/issues/34)) ([bc87698](https://github.com/LancelotLewis/release-please-demo/commit/bc8769883ba637e049e9d34c1d6b56319f37a52e))
+* update config ([#36](https://github.com/LancelotLewis/release-please-demo/issues/36)) ([a30a9d4](https://github.com/LancelotLewis/release-please-demo/commit/a30a9d4de13a2cc5cdb8c13ae216d188755f90d7))
+* update config ([#40](https://github.com/LancelotLewis/release-please-demo/issues/40)) ([a0f7f83](https://github.com/LancelotLewis/release-please-demo/commit/a0f7f83fb42a7931c979d353b90950a9c10d33d8))
+* update config ([#42](https://github.com/LancelotLewis/release-please-demo/issues/42)) ([e1f7b35](https://github.com/LancelotLewis/release-please-demo/commit/e1f7b351af9fda2500485102fc2e53d81c4d8934))
+* update config ([#44](https://github.com/LancelotLewis/release-please-demo/issues/44)) ([ffdce63](https://github.com/LancelotLewis/release-please-demo/commit/ffdce63770432197448304e54d502e0a9ca78273))
+* update config ([#45](https://github.com/LancelotLewis/release-please-demo/issues/45)) ([3f617f0](https://github.com/LancelotLewis/release-please-demo/commit/3f617f01251d93b7cadf0de90db84a2431bdcc27))
+* update config ([#47](https://github.com/LancelotLewis/release-please-demo/issues/47)) ([c40eb04](https://github.com/LancelotLewis/release-please-demo/commit/c40eb04b0f48b3cf7a7557d9aa2bc93e8c9507f7))
+* update config ([#49](https://github.com/LancelotLewis/release-please-demo/issues/49)) ([042028a](https://github.com/LancelotLewis/release-please-demo/commit/042028a1faf51d7723bb82ec29649d34de0127e3))
+* update echo-a ([#9](https://github.com/LancelotLewis/release-please-demo/issues/9)) ([b55171b](https://github.com/LancelotLewis/release-please-demo/commit/b55171b17900eddc28f72b9e3cffa489085ff11c))
+
+
+### Miscellaneous Chores
+
+* release 0.1.1 ([a96c454](https://github.com/LancelotLewis/release-please-demo/commit/a96c454be10d1f547263f21a5c7bf71dd0d920f5))
+* release 0.1.7 ([f897406](https://github.com/LancelotLewis/release-please-demo/commit/f897406a999200ba16aee97ea6dac8455f8193ce))
+* release 0.1.8 ([2e7e62e](https://github.com/LancelotLewis/release-please-demo/commit/2e7e62e640088580a8a9d4e84f2067637bbb538e))
+
 ## [0.1.8](https://github.com/LancelotLewis/release-please-demo/compare/release-please-v0.1.8-beta...release-please-v0.1.8) (2025-09-15)
 
 
