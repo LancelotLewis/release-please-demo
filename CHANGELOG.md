@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.8](https://github.com/LancelotLewis/release-please-demo/compare/release-please-v0.1.8-beta...release-please-v0.1.8) (2025-09-15)
+
+
+### Bug Fixes
+
+* update config ([#47](https://github.com/LancelotLewis/release-please-demo/issues/47)) ([c40eb04](https://github.com/LancelotLewis/release-please-demo/commit/c40eb04b0f48b3cf7a7557d9aa2bc93e8c9507f7))
+
+
+### Miscellaneous Chores
+
+* release 0.1.8 ([2e7e62e](https://github.com/LancelotLewis/release-please-demo/commit/2e7e62e640088580a8a9d4e84f2067637bbb538e))
+
 ## [0.1.8-beta](https://github.com/LancelotLewis/release-please-demo/compare/release-please-v0.1.7...release-please-v0.1.8-beta) (2025-09-15)
 
 
