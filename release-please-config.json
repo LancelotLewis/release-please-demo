@@ -4,7 +4,8 @@
     ".": {
       "bump-patch-for-minor-pre-major": true,
       "release-type": "node",
-      "prerelease-type": "beta"
+      "prerelease-type": "beta",
+      "versioning": "prerelease"
     }
   }
 }
