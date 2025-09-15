@@ -3,8 +3,7 @@
   "packages": {
     ".": {
       "release-type": "node",
-      "bump-patch-for-minor-pre-major": true,
-      "prerelease-type": "beta"
+      "bump-patch-for-minor-pre-major": true
     }
   }
 }
