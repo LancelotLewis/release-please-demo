@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/LancelotLewis/release-please-demo/compare/release-please-v0.1.2...release-please-v0.1.3) (2025-09-15)
+
+
+### Features
+
+* update a & b ([#29](https://github.com/LancelotLewis/release-please-demo/issues/29)) ([28ada6f](https://github.com/LancelotLewis/release-please-demo/commit/28ada6f6bb9ff83127ed8573deb9ecafbfbf08b6))
+
 ## [0.1.2](https://github.com/LancelotLewis/release-please-demo/compare/release-please-v0.1.1...release-please-v0.1.2) (2025-09-15)
 
 
