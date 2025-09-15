@@ -24,7 +24,7 @@ jobs:
         with:
           fetch-depth: 2
 
-      - name: Install dependencies
+      - name: Bump version
         run: |
           echo "bump version ${{ steps.release.outputs.version }}"
         if: ${{ steps.release.outputs.release_created }}
