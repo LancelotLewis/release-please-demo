@@ -26,5 +26,5 @@ jobs:
 
       - name: Install dependencies
         run: |
-          echo "bump"
+          echo "bump version ${{ steps.release.outputs.version }}"
         if: ${{ steps.release.outputs.release_created }}
