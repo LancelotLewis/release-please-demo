@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.4](https://github.com/LancelotLewis/release-please-demo/compare/release-please-v0.1.3...release-please-v0.1.4) (2025-09-15)
+
+
+### Bug Fixes
+
+* update config ([#31](https://github.com/LancelotLewis/release-please-demo/issues/31)) ([f671b81](https://github.com/LancelotLewis/release-please-demo/commit/f671b817eff4d1c95e50e3155096bab90671c0f2))
+* update config ([#33](https://github.com/LancelotLewis/release-please-demo/issues/33)) ([137adb2](https://github.com/LancelotLewis/release-please-demo/commit/137adb2f4972a27e7e4440b730266b35da95472a))
+
 ## [0.1.3](https://github.com/LancelotLewis/release-please-demo/compare/release-please-v0.1.2...release-please-v0.1.3) (2025-09-15)
 
 
