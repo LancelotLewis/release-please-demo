@@ -4,7 +4,7 @@
     ".": {
       "release-type": "node",
       "bump-patch-for-minor-pre-major": true,
-      "prerelease": true,
+      "include-component-in-tag": false,
       "versioning": "prerelease"
     }
   }
