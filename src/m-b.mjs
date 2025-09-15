@@ -1,1 +1,1 @@
-export const b = "Hi from b 1";
+export const b = "Hi from b 2";
