@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/LancelotLewis/release-please-demo/compare/v1.1.2-beta.1...v1.1.2) (2025-09-16)
+
+
+### Miscellaneous Chores
+
+* release 1.1.2 ([ecaa145](https://github.com/LancelotLewis/release-please-demo/commit/ecaa1456dc06b9637997d684a4288a494b660bbd))
+
 ## [1.1.2-beta.1](https://github.com/LancelotLewis/release-please-demo/compare/v1.1.2-beta...v1.1.2-beta.1) (2025-09-16)
 
 
