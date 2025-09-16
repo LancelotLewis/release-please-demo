@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2-beta.1](https://github.com/LancelotLewis/release-please-demo/compare/v1.1.2-beta...v1.1.2-beta.1) (2025-09-16)
+
+
+### Bug Fixes
+
+* update c ([#69](https://github.com/LancelotLewis/release-please-demo/issues/69)) ([32747bc](https://github.com/LancelotLewis/release-please-demo/commit/32747bc0fb11b0f8c596488f7edbd171031eef32))
+
 ## [1.1.2-beta](https://github.com/LancelotLewis/release-please-demo/compare/v1.1.1...v1.1.2-beta) (2025-09-16)
 
 
