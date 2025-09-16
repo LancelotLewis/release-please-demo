@@ -24,7 +24,25 @@ jobs:
         with:
           fetch-depth: 2
 
+      - uses: pnpm/action-setup@v3
+        if: ${{ steps.release.outputs.release_created }}
+        with:
+          version: 10
+
+      - name: Setup node
+        uses: actions/setup-node@v4
+        if: ${{ steps.release.outputs.release_created }}
+        with:
+          node-version: 23
+          cache: pnpm
+
       - name: Bump version
         run: |
           echo "bump version ${{ steps.release.outputs.version }}"
         if: ${{ steps.release.outputs.release_created }}
+
+      - name: Publish to NPM
+        if: ${{ steps.release.outputs.release_created }}
+        run: |
+          npm config set '//registry.npmjs.org/:_authToken' "${{ secrets.NPM_TOKEN }}"
+          pnpm publish --access public --no-git-checks
