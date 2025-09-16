@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/LancelotLewis/release-please-demo/compare/v1.1.0-beta...v1.1.0) (2025-09-16)
+
+
+### Features
+
+* add sleep lib ([#60](https://github.com/LancelotLewis/release-please-demo/issues/60)) ([9ea7ff8](https://github.com/LancelotLewis/release-please-demo/commit/9ea7ff8382207ebcf126b2113de84b11d921152c))
+
+
+### Miscellaneous Chores
+
+* release 1.1.0 ([5c59222](https://github.com/LancelotLewis/release-please-demo/commit/5c59222d41826a4ba69c07f28a822cf8892168f2))
+
 ## [1.1.0-beta](https://github.com/LancelotLewis/release-please-demo/compare/v1.0.0...v1.1.0-beta) (2025-09-16)
 
 ### Features
