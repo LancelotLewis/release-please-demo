@@ -2,7 +2,6 @@
 
 ## [1.1.0-beta](https://github.com/LancelotLewis/release-please-demo/compare/v1.0.0...v1.1.0-beta) (2025-09-16)
 
-
 ### Features
 
 * add c ([#56](https://github.com/LancelotLewis/release-please-demo/issues/56)) ([41180b8](https://github.com/LancelotLewis/release-please-demo/commit/41180b8e73d55d6f575790d346a493b786f0ec93))
